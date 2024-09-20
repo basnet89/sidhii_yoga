@@ -1,0 +1,1574 @@
+# Translation of Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-01 05:41:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release)\n"
+
+#: dist/translation-strings.php:621 src/stk-block-types.php:953 dist/stk.js:2
+#: dist/translation-strings.js:575
+msgid "Paragraph"
+msgstr "Parágrafo"
+
+#: dist/translation-strings.php:1114
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Tiled"
+msgstr "Mosaico"
+
+#: dist/translation-strings.php:1113
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Uneven"
+msgstr "Desigual"
+
+#: dist/translation-strings.php:104
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Vertical"
+msgstr "Vertical"
+
+#: dist/translation-strings.php:479
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Bubble"
+msgstr "Bolha"
+
+#: dist/translation-strings.php:434
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Sectioned"
+msgstr "Seccionado"
+
+#: dist/translation-strings.php:429
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Compact"
+msgstr "Compacto"
+
+#: dist/translation-strings.php:268
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Half"
+msgstr "Metade"
+
+#: dist/translation-strings.php:415
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: dist/translation-strings.php:368
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Bordered"
+msgstr "Com bordas"
+
+#: dist/translation-strings.php:97
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Colored"
+msgstr "Colorido"
+
+#: dist/translation-strings.php:581
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Huge"
+msgstr "Enorme"
+
+#: dist/translation-strings.php:299 dist/editor_blocks.js:2 dist/stk.js:2
+msgid "Dotted"
+msgstr "Pontilhado"
+
+#: dist/translation-strings.php:298 dist/editor_blocks.js:2 dist/stk.js:2
+msgid "Dashed"
+msgstr "Tracejado"
+
+#: dist/translation-strings.php:157 dist/editor_blocks.js:2 dist/stk.js:2
+msgid "Solid"
+msgstr "Sólido"
+
+#: dist/translation-strings.php:317 dist/editor_blocks.js:2 dist/stk.js:2
+msgid "Borders"
+msgstr "Bordas"
+
+#: dist/translation-strings.php:254
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Zigzag"
+msgstr "Zigzag"
+
+#: dist/translation-strings.php:125
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Faded"
+msgstr "Desbotado"
+
+#: dist/translation-strings.php:124
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/translation-strings.js:314
+msgid "Full"
+msgstr "Completo"
+
+#: dist/translation-strings.php:103
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: dist/translation-strings.php:129
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Fade"
+msgstr "Dissipar"
+
+#: dist/translation-strings.php:331
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Captioned"
+msgstr "Com legendas"
+
+#: dist/translation-strings.php:330
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Box"
+msgstr "Caixa"
+
+#: dist/translation-strings.php:1128
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Boxed"
+msgstr "Encaixotado"
+
+#: dist/translation-strings.php:1127
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Abstract"
+msgstr "Abstrato"
+
+#: dist/translation-strings.php:367
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Side"
+msgstr "Lateral"
+
+#: dist/translation-strings.php:1238
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Skip"
+msgstr "Pular"
+
+#: dist/translation-strings.php:1237
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Select a design from our library to start with."
+msgstr "Selecione um design de nossa biblioteca para começar."
+
+#: dist/translation-strings.php:1236
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Or pick from our Design Library."
+msgstr "Ou escolha a partir da nossa Biblioteca de Design."
+
+#: dist/translation-strings.php:1235
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Select a variation to start with."
+msgstr "Selecione uma variação para começar."
+
+#: dist/translation-strings.php:1234
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Pick a layout or design"
+msgstr "Escolha um layout ou design"
+
+#: dist/translation-strings.php:651
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "UI Kits"
+msgstr "Kits UI"
+
+#: dist/translation-strings.php:119
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Split Centered"
+msgstr "Dividido ao meio"
+
+#: dist/translation-strings.php:1134
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Half Background"
+msgstr "Meio fundo"
+
+#: dist/translation-strings.php:1136
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Overlap Background %s"
+msgstr "Sobrepor fundo %s"
+
+#: dist/translation-strings.php:251
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Large Mid"
+msgstr "Grande no meio"
+
+#: dist/translation-strings.php:414
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Image Card"
+msgstr "Cartão da imagem"
+
+#: dist/translation-strings.php:1090
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Horizontal Card"
+msgstr "Cartão horizontal"
+
+#: dist/translation-strings.php:417
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Vertical Card"
+msgstr "Cartão vertical"
+
+#: dist/translation-strings.php:370
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Large Icon"
+msgstr "Ícone grande"
+
+#: dist/translation-strings.php:582
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Centered Quote"
+msgstr "Citação centralizada"
+
+#: dist/translation-strings.php:650
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Block Designs"
+msgstr "Bloco de designs"
+
+#: dist/translation-strings.php:1178
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Vertical Inverse"
+msgstr "Inverso vertical"
+
+#: dist/translation-strings.php:1173
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Overlay Simple"
+msgstr "Sobreposição simples"
+
+#: dist/translation-strings.php:266
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Side Overlay"
+msgstr "Sobreposição lateral"
+
+#: dist/translation-strings.php:265
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Center Overlay"
+msgstr "Sobreposição centralizada"
+
+#: dist/translation-strings.php:264
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Half Overlay"
+msgstr "Sobreposição pela metade"
+
+#: dist/translation-strings.php:1135
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Overlap Shape %s"
+msgstr "Sobrepor forma %s"
+
+#: dist/translation-strings.php:1050
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Paddings"
+msgstr "Espaçamentos"
+
+#: dist/translation-strings.php:739 dist/stk.js:2
+msgid "Not In"
+msgstr "Não em"
+
+#: dist/translation-strings.php:738 dist/stk.js:2
+msgid "Included In"
+msgstr "Incluído em"
+
+#: dist/translation-strings.php:737 dist/stk.js:2
+msgid "Taxonomy Filter Type"
+msgstr "Tipo de filtro de taxonomia"
+
+#: dist/translation-strings.php:630 dist/stk.js:2
+msgid "Icon Settings"
+msgstr "Configurações de ícone"
+
+#: dist/translation-strings.php:632 dist/stk.js:2
+msgid "Clear icon"
+msgstr "Liberar ícone"
+
+#: dist/translation-strings.php:1075 dist/editor_blocks.js:2
+msgid "Stackable and all other blocks"
+msgstr "Stackable e todos os outros blocos"
+
+#: dist/translation-strings.php:1072 dist/editor_blocks.js:2
+msgid "Apply Typography Styles to"
+msgstr "Aplicar estilos de tipografia a"
+
+#: dist/translation-strings.php:1071 dist/editor_blocks.js:2
+msgid "Learn more about Global Typography"
+msgstr "Saiba mais sobre a tipografia global"
+
+#: dist/translation-strings.php:1070 dist/editor_blocks.js:2
+msgid "Change the typography of your headings for all your blocks in your site."
+msgstr "Escola a tipografia dos seus títulos para todos os blocos no seu site."
+
+#: dist/translation-strings.php:1069 dist/editor_blocks.js:2
+msgid "Global Typography"
+msgstr "Tipografia global"
+
+#: dist/translation-strings.php:1065 dist/editor_blocks.js:2
+msgid "Heading %d"
+msgstr "Título %d"
+
+#: dist/translation-strings.php:1068 dist/editor_blocks.js:2
+msgid "Body Text"
+msgstr "Texto do corpo"
+
+#: dist/translation-strings.php:1061 dist/editor_blocks.js:2
+msgid "Learn more about Global Colors"
+msgstr "Saiba mais sobre cores globais"
+
+#: dist/translation-strings.php:1060 dist/editor_blocks.js:2
+msgid "Change your color palette for all your blocks across your site."
+msgstr "Mudar a sua paleta de cores para todos os blocos no seu site."
+
+#: dist/translation-strings.php:1059 dist/editor_blocks.js:2
+msgid "Global Color Palette"
+msgstr "Paleta global de cores"
+
+#: dist/translation-strings.php:1058 dist/editor_blocks.js:2
+msgid "Custom Color %s"
+msgstr "Cor personalizada %s"
+
+#: dist/translation-strings.php:1405 dist/translation-strings.js:213
+msgid "Delete"
+msgstr "Excluir"
+
+#: dist/translation-strings.php:1057 dist/editor_blocks.js:2
+msgid "Any blocks that use this color will become unlinked with this global color. Delete this color?"
+msgstr "Qualquer bloco que usar essa cor se tornará desvinculada com essa cor global. Excluir essa cor?"
+
+#: dist/translation-strings.php:45 dist/admin_welcome.js:2
+msgid "Force styles"
+msgstr "Forçar estilos"
+
+#: dist/translation-strings.php:44 dist/admin_welcome.js:2
+msgid "Not forced"
+msgstr "Não forçado"
+
+#: dist/translation-strings.php:43 dist/admin_welcome.js:2
+msgid "Force Typography Styles"
+msgstr "Forçar estilos de tipografia"
+
+#: dist/translation-strings.php:1406 dist/translation-strings.js:214
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/global-settings.php:261
+msgid "Stackable global typography settings"
+msgstr "Configurações de tipografia global do Stackable"
+
+#: src/global-settings.php:189
+msgid "Stackable global typography add important to global styles"
+msgstr "A tipografia global do Stackable adiciona importante para os estilos globais"
+
+#: src/global-settings.php:177
+msgid "Stackable global typography apply to setting"
+msgstr "Tipografia global do Stackable se aplica à configuração"
+
+#: dist/translation-strings.php:1074 dist/editor_blocks.js:2
+msgid "Stackable blocks only"
+msgstr "Somente blocos do Stackable"
+
+#: dist/translation-strings.php:1073 dist/editor_blocks.js:2
+msgid "Stackable and native blocks only"
+msgstr "Somente blocos nativos e do Stackable"
+
+#: dist/translation-strings.php:1076 dist/editor_blocks.js:2
+msgid "Reset %s Global Typography Style"
+msgstr "Redefinir o estilo global de tipografia de %s"
+
+#: dist/translation-strings.php:937 dist/editor_blocks.js:2
+msgid "Stackable Settings"
+msgstr "Configurações do Stackable"
+
+#: src/welcome/index.php:263
+msgid "Font Awesome Pro Integration"
+msgstr "Integração com o Font Awesome Pro"
+
+#: dist/translation-strings.php:1692 src/welcome/index.php:224
+#: src/welcome/index.php:235
+msgid "This is only available in Stackable Premium."
+msgstr "Isso está disponível apenas no Stackable Premium"
+
+#: src/welcome/index.php:215
+msgid "📰 Role Manager"
+msgstr "📰 Gerenciamento de funções"
+
+#: src/welcome/index.php:207
+msgid "🧰 Icon Library Settings"
+msgstr "🧰 Configurações da biblioteca de ícones"
+
+#: dist/translation-strings.php:763 dist/stk.js:2
+msgid "Search or type url"
+msgstr "Pesquisar ou digitar o URL"
+
+#: src/stk-block-types.php:437 src/stk-block-types.php:494
+#: dist/translation-strings.js:511
+msgid "SVG"
+msgstr "SVG"
+
+#: dist/translation-strings.php:1146
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Title on Top"
+msgstr "Título no topo"
+
+#: dist/translation-strings.php:1251
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Horizontal Align"
+msgstr "Alinhamento horizontal"
+
+#: dist/translation-strings.php:1250
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Max Width"
+msgstr "Largura máxima"
+
+#: dist/translation-strings.php:1218
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+#: dist/translation-strings.js:147
+msgid "Multicolor"
+msgstr "Multicores"
+
+#: dist/translation-strings.php:1221
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Outline Border Radius"
+msgstr "Raio da borda do contorno"
+
+#: dist/translation-strings.php:369
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Outlined"
+msgstr "Contornado"
+
+#: dist/translation-strings.php:633 dist/stk.js:2
+msgid "Drop your SVG here"
+msgstr "Coloque o seu SVG aqui"
+
+#: dist/translation-strings.php:631 dist/stk.js:2
+msgid "Upload SVG"
+msgstr "Enviar arquivo SVG"
+
+#: dist/translation-strings.php:1252
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Text Align"
+msgstr "Alinhamento de texto"
+
+#: dist/translation-strings.php:1224
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Outline Width"
+msgstr "Espessura do contorno"
+
+#: dist/translation-strings.php:1196
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Vertical Align"
+msgstr "Alinhamento vertical"
+
+#: dist/translation-strings.php:1094
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+#: dist/translation-strings.js:242
+msgid "Load More"
+msgstr "Carregar mais"
+
+#: dist/translation-strings.php:1100
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+#: dist/translation-strings.js:395
+msgid "Load More Button"
+msgstr "Botão \"Carregar mais\""
+
+#: dist/translation-strings.php:1195
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Column Rule"
+msgstr "Regra da coluna"
+
+#: dist/translation-strings.php:1194
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Reverse Title"
+msgstr "Título reverso"
+
+#: dist/translation-strings.php:257
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Line Color"
+msgstr "Cor da linha"
+
+#: dist/translation-strings.php:256
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Top Line"
+msgstr "Linha superior"
+
+#: dist/translation-strings.php:261
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Bottom Line"
+msgstr "Linha inferior"
+
+#: src/stk-block-types.php:944 dist/translation-strings.js:574
+msgid "Start with the building block of all page layouts."
+msgstr "Comece com o bloco de construção para todos os layouts de página"
+
+#: src/stk-block-types.php:364 dist/translation-strings.js:501
+msgid "Introduce new sections of your content in style."
+msgstr "Introduza novas seções para o seu conteúdo com estilo"
+
+#: dist/translation-strings.php:1197
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Subtitle on Top"
+msgstr "Legenda no topo"
+
+#: dist/translation-strings.php:567 dist/stk.js:2
+msgid "Adjust the individual widths of each column"
+msgstr "Ajustar a largura individual de cada coluna"
+
+#: dist/translation-strings.php:620 dist/stk.js:2
+msgid "Stop showing tooltips"
+msgstr "Parar de mostrar dicas"
+
+#: dist/translation-strings.php:49 dist/admin_welcome.js:2
+msgid "Don't show help video tooltips"
+msgstr "Não mostre os vídeos com dicas"
+
+#: dist/translation-strings.php:61 dist/admin_welcome.js:2
+msgid "Community"
+msgstr "Comunidade"
+
+#: src/pro.php:49
+msgid "Hide \"Go Premium\" notices"
+msgstr "Esconder notificações sobre \"Obter Premium\""
+
+#: src/welcome/index.php:125
+msgid "Account"
+msgstr "Conta"
+
+#: dist/translation-strings.php:291
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Grid"
+msgstr "Grade"
+
+#: dist/translation-strings.php:1115
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Layouts"
+msgstr "Layouts"
+
+#: dist/translation-strings.php:1215
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Premium"
+msgstr "Premium"
+
+#: dist/translation-strings.php:1214
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Free"
+msgstr "Gratuito"
+
+#: dist/translation-strings.php:59 src/welcome/index.php:137
+#: dist/admin_welcome.js:2
+msgid "Documentation"
+msgstr "Documentação"
+
+#: dist/translation-strings.php:410 src/block/posts/index.php:265
+#: dist/editor_blocks.js:2
+msgid "Continue Reading"
+msgstr "Continue lendo"
+
+#: src/welcome/index.php:284
+msgid "🗞 Stackable Blog"
+msgstr "🗞 Blog do Stackable"
+
+#: src/welcome/index.php:170 src/welcome/index.php:271
+msgid "Get Stackable Premium"
+msgstr "Obtenha Stackable Premium"
+
+#: src/welcome/index.php:267
+msgid "No Ads"
+msgstr "Sem anúncios"
+
+#: src/welcome/index.php:255
+msgid "If you are ready for even more, upgrade to Premium and get:"
+msgstr "Se estiver pronto para mais, atualize para premium e obtenha:"
+
+#: dist/translation-strings.php:396 dist/editor_blocks.js:2
+msgid "Highlight Color"
+msgstr "Cor de destaque"
+
+#: dist/translation-strings.php:768 dist/editor_blocks.js:2
+msgid "Highlight Text"
+msgstr "Texto de destaque"
+
+#: dist/translation-strings.php:580 dist/editor_blocks.js:2
+msgid "Simple"
+msgstr "Simples"
+
+#: dist/translation-strings.php:96
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:433
+msgid "Shadow"
+msgstr "Sombra"
+
+#: dist/translation-strings.php:966
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Separator Width"
+msgstr "Largura do separador"
+
+#: dist/translation-strings.php:1165
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Separator Color"
+msgstr "Cor do separador"
+
+#: dist/translation-strings.php:1170
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Margin Bottom"
+msgstr "Margem inferior"
+
+#: dist/translation-strings.php:1168
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Margin Top"
+msgstr "Margem superior"
+
+#: dist/translation-strings.php:437
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Flip Vertically"
+msgstr "Virar na vertical"
+
+#: dist/translation-strings.php:436
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:234
+msgid "Flip Horizontally"
+msgstr "Virar na horizontal"
+
+#: dist/translation-strings.php:667 dist/stk.js:2
+msgid "Advanced"
+msgstr "Avançado"
+
+#: dist/translation-strings.php:665 dist/stk.js:2
+msgid "Style"
+msgstr "Estilo"
+
+#: dist/translation-strings.php:671 src/welcome/index.php:119
+#: src/welcome/index.php:336 dist/stk.js:2
+msgid "Settings"
+msgstr "Configurações"
+
+#: dist/translation-strings.php:194 src/stk-block-types.php:763
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/translation-strings.js:551
+msgid "Separator"
+msgstr "Separador"
+
+#: dist/translation-strings.php:1167
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Padding Bottom"
+msgstr "Espaçamento inferior"
+
+#: dist/translation-strings.php:1166
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Padding Top"
+msgstr "Espaçamento superior"
+
+#: dist/translation-strings.php:445 dist/editor_blocks.js:2 dist/stk.js:2
+msgid "Top"
+msgstr "Topo"
+
+#: dist/translation-strings.php:446 dist/editor_blocks.js:2 dist/stk.js:2
+msgid "Bottom"
+msgstr "Base"
+
+#: dist/translation-strings.php:587
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Layout"
+msgstr "Layout"
+
+#: dist/translation-strings.php:1169
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Use this to pull up/down the separator to the block above it"
+msgstr "Use isto para mover o separador para cima/baixo do bloco acima dele"
+
+#: dist/translation-strings.php:1171
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Use this to pull up/down the separator to the block below it"
+msgstr "Use isto para mover o separador para cima/baixo do bloco abaixo dele"
+
+#: dist/translation-strings.php:856
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+#: dist/translation-strings.js:133
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: dist/translation-strings.php:1017
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Background Image or Video"
+msgstr "Imagem ou vídeo de fundo"
+
+#: dist/translation-strings.php:914
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+#: dist/translation-strings.js:145
+msgid "Gradient Direction (degrees)"
+msgstr "Direção do gradiente (em graus)"
+
+#: dist/translation-strings.php:508
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:146
+msgid "Gradient"
+msgstr "Gradiente"
+
+#: dist/translation-strings.php:507
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:291
+msgid "Single"
+msgstr "Único"
+
+#: dist/translation-strings.php:500
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Use .mp4 format for videos"
+msgstr "Use formato .mp4 para vídeos"
+
+#: dist/translation-strings.php:1192
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Background Color Type"
+msgstr "Tipo de cor de fundo"
+
+#: src/welcome/index.php:254
+msgid "🚀 Stackable Premium"
+msgstr "🚀 Stackable Premium"
+
+#: src/pro.php:133
+msgid "We hope you're enjoying Stackable. If you want more, you may want to check out %sStackable Premium%s. Ready to upgrade and do more? %sGo premium now%s"
+msgstr "Esperamos que esteja gostando do Stackable. Se quiser mais, consulte o %sStackable Premium%s. Pronto para atualizar e fazer mais? %sObtenha o premium agora%s"
+
+#: dist/translation-strings.php:1141
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Full Height"
+msgstr "Altura total"
+
+#: dist/translation-strings.php:444
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:416
+msgid "Right"
+msgstr "Direita"
+
+#: dist/translation-strings.php:443
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:415
+msgid "Left"
+msgstr "Esquerda"
+
+#: dist/translation-strings.php:526
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Center"
+msgstr "Centro"
+
+#: dist/translation-strings.php:1158
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: dist/translation-strings.php:1157
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: dist/translation-strings.php:200
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:76
+msgid "None"
+msgstr "Nenhum"
+
+#: dist/translation-strings.php:1156
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Image Hover Effect"
+msgstr "Efeito ao passar o mouse sobre a imagem"
+
+#: dist/translation-strings.php:48 dist/admin_welcome.js:2
+msgid "Show \"Go premium\" notices"
+msgstr "Mostrar notificações \"Obter premium\""
+
+#: dist/translation-strings.php:1151
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Text for this block"
+msgstr "Texto para este bloco"
+
+#: dist/translation-strings.php:571
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Round Thin"
+msgstr "Fino redondo"
+
+#: dist/translation-strings.php:572
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Round"
+msgstr "Redondo"
+
+#: dist/translation-strings.php:573
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Round Thick"
+msgstr "Espesso redondo"
+
+#: dist/translation-strings.php:575
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Square Thin"
+msgstr "Fino quadrado"
+
+#: dist/translation-strings.php:574
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Round Fat"
+msgstr "Largo redondo"
+
+#: dist/translation-strings.php:579
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Square Fat"
+msgstr "Largo quadrado"
+
+#: dist/translation-strings.php:578
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Square Modern"
+msgstr "Quadrado moderno"
+
+#: dist/translation-strings.php:577
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Square Simple"
+msgstr "Quadrado simples"
+
+#: dist/translation-strings.php:1104
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+#: dist/translation-strings.js:367
+msgid "Description"
+msgstr "Descrição"
+
+#: src/welcome/index.php:287
+msgid "Subscribe"
+msgstr "Assinar"
+
+#: dist/translation-strings.php:759 dist/stk.js:2
+msgid "Opens in new tab"
+msgstr "Abrir em nova aba"
+
+#: src/welcome/index.php:286
+msgid "Keep up to date by subscribing to our newsletter."
+msgstr "Mantenha-se atualizado ao assinar nossa newsletter."
+
+#: dist/translation-strings.php:10 dist/stk.js:2
+msgid "Description for this block. You can use this space for describing your block."
+msgstr "Descrição para este bloco. Pode usar este campo para descrever o seu bloco."
+
+#: dist/translation-strings.php:11 dist/stk.js:2
+msgid "Description for this block. Use this space for describing your block. Any text will do."
+msgstr "Descrição para este bloco. Use este campo para descrever o seu bloco. Qualquer texto serve."
+
+#: dist/translation-strings.php:1111
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Subtitle for this block"
+msgstr "Subtítulo para este bloco"
+
+#: dist/translation-strings.php:89
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Title for This Block"
+msgstr "Título para este bloco"
+
+#: dist/translation-strings.php:23 dist/admin_welcome.js:2
+#: dist/deprecated/admin_welcome_v2.js:2 dist/stk.js:2
+#: dist/translation-strings.js:119
+msgid "Enabled"
+msgstr "Ativado"
+
+#: dist/translation-strings.php:22 dist/admin_welcome.js:2
+#: dist/deprecated/admin_welcome_v2.js:2 dist/stk.js:2
+#: dist/translation-strings.js:120
+msgid "Disabled"
+msgstr "Desativado"
+
+#: dist/translation-strings.php:20 dist/admin_welcome.js:2
+#: dist/deprecated/admin_welcome_v2.js:2
+msgid "Disable All"
+msgstr "Desativar todos"
+
+#: dist/translation-strings.php:19 dist/admin_welcome.js:2
+#: dist/deprecated/admin_welcome_v2.js:2
+msgid "Enable All"
+msgstr "Ativar todos"
+
+#: dist/translation-strings.php:412
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "featured"
+msgstr "em destaque"
+
+#: dist/translation-strings.php:744 dist/stk.js:2
+msgid "Bold"
+msgstr "Negrito"
+
+#: dist/translation-strings.php:604 dist/stk.js:2
+msgid "Monospace"
+msgstr "Mono-espaçado"
+
+#: dist/translation-strings.php:602 dist/stk.js:2
+msgid "Serif"
+msgstr "Serif"
+
+#: dist/translation-strings.php:601 dist/stk.js:2
+msgid "Sans-Serif"
+msgstr "Sans-Serif"
+
+#: dist/translation-strings.php:731
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+#: dist/translation-strings.js:430
+msgid "Shadow / Outline"
+msgstr "Sombra / Contorno"
+
+#: dist/translation-strings.php:101
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: dist/translation-strings.php:1205
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Tiny"
+msgstr "Minúsculo"
+
+#: dist/translation-strings.php:626 dist/stk.js:2
+msgid "preview"
+msgstr "pré-visualizar"
+
+#: src/welcome/index.php:240
+msgid "We have a lot of awesome blocks. But if you're overwhelmed with awesomeness, you can hide some of them."
+msgstr "Temos vários blocos legais. Mas se sentir intimidado com toda esta grandiosidade, pode esconder alguns deles."
+
+#: dist/translation-strings.php:585 dist/translation-strings.php:1693
+#: src/welcome/index.php:211 src/welcome/index.php:224
+#: src/welcome/index.php:235 src/welcome/index.php:348 dist/stk.js:2
+msgid "Go Premium"
+msgstr "Obter Premium"
+
+#: src/welcome/index.php:240
+msgid "(If your post contains a disabled block, it will still continue to work. You won't just be able to add the disabled blocks.)"
+msgstr "(Se seu post contiver um bloco inativo, continuará funcionando. Apenas não poderá adicionar os blocos inativos.)"
+
+#: dist/translation-strings.php:1612 src/deprecated/v2/disabled-blocks.php:62
+#: src/welcome/news.php:103
+msgid "Security error, please refresh the page and try again."
+msgstr "Erro de segurança. Atualizar esta página para experimentar outra vez."
+
+#: src/deprecated/v2/admin.php:39 src/welcome/index.php:239
+msgid "🎛 Enable & Disable Blocks"
+msgstr "🎛 Ativar & desativar blocos"
+
+#: dist/translation-strings.php:963
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Design"
+msgstr "Design"
+
+#: src/stk-block-types.php:702 dist/translation-strings.js:544
+msgid "Display the different pricing tiers of your business."
+msgstr "Exibir níveis diferentes de preço de seu negócio."
+
+#: src/stk-block-types.php:287 dist/translation-strings.js:489
+msgid "Add a pause between your content."
+msgstr "Adicione uma pausa em seu conteúdo."
+
+#: dist/translation-strings.php:95
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Plain"
+msgstr "Padrão"
+
+#: dist/translation-strings.php:100 src/stk-block-types.php:64
+#: src/stk-block-types.php:83 src/stk-block-types.php:475
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:462
+msgid "Link"
+msgstr "Link"
+
+#: src/stk-block-types.php:52 src/stk-block-types.php:74
+#: src/stk-block-types.php:89 src/stk-block-types.php:97
+#: src/stk-block-types.php:463 dist/translation-strings.js:461
+msgid "Add a customizable button."
+msgstr "Adicionar um botão personalizável."
+
+#: src/stk-block-types.php:326 dist/translation-strings.js:499
+msgid "Display a product feature or a service in a large area."
+msgstr "Exibir recurso de produto ou serviço numa grande área."
+
+#: src/stk-block-types.php:925 dist/translation-strings.js:573
+msgid "Showcase what your users say about your product or service."
+msgstr "Mostre o que seus usuários dizem sobre o seu produto ou serviço."
+
+#: src/stk-block-types.php:230 dist/translation-strings.js:481
+msgid "Showcase your stats. Display how many customers you have or the number of downloads of your app."
+msgstr "Mostre seus dados. Mostre quantos clientes tem ou o número de vezes que sua app foi baixada."
+
+#: src/stk-block-types.php:306 dist/translation-strings.js:493
+msgid "Display a small snippet of text. Your readers can toggle it to show more information."
+msgstr "Exibir pequeno fragmento de texto. Seus leitores podem alternar para mostrar mais informação."
+
+#: src/stk-block-types.php:140 dist/translation-strings.js:471
+msgid "Describe a single subject in a small card. You can use this to describe your product, service or a person."
+msgstr "Descreva um único assunto num pequeno cartão. Pode usar isto para descrever seu produto, serviço ou uma pessoa."
+
+#: src/stk-block-types.php:906 dist/translation-strings.js:571
+msgid "Display members of your team or your office. Use multiple Team Member blocks if you have a large team."
+msgstr "Exibir membros da sua equipe ou seu escritório. Usar vários blocos de 'Membros da Equipe' se tiver uma equipe grande."
+
+#: src/stk-block-types.php:504 dist/translation-strings.js:515
+msgid "An unordered list with icons. You can use this as a list of features or benefits."
+msgstr "Uma lista não ordenada com ícones. Pode usar isto como uma lista de recursos ou benefícios."
+
+#: src/stk-block-types.php:605 dist/translation-strings.js:528
+msgid "Show a notice to your readers. People can dismiss the notice to permanently hide it."
+msgstr "Mostrar notificação a seus leitores. As pessoas podem dispensar a notificação ocultando-a permanentemente."
+
+#: src/stk-block-types.php:569 dist/translation-strings.js:521
+msgid "Display an image that shows more information when hovered on. Can be used as a fancy link to other pages."
+msgstr "Exibir uma imagem que mostre mais informação à medida que se passa o mouse por cima. Pode ser usada como link sofisticado para outras páginas."
+
+#: src/stk-block-types.php:783 dist/translation-strings.js:555
+msgid "Sometimes you just need some space."
+msgstr "Por vezes apenas precisa de algum espaço."
+
+#: src/stk-block-types.php:647 dist/translation-strings.js:535
+msgid "Your latest blog posts. Use this to showcase a few of your posts in your landing pages."
+msgstr "Seus posts de blog mais recentes. Use isto para mostrar alguns de seus posts em suas páginas."
+
+#: src/stk-block-types.php:16 dist/translation-strings.js:455
+msgid "A title that your visitors can toggle to view more text. Use as FAQs or multiple ones for an Accordion."
+msgstr "Um título que seus visitantes podem alternar para ver mais texto. Use como perguntas frequentes ou vários deste para criar um acordeão."
+
+#: src/stk-block-types.php:345 dist/translation-strings.js:497
+msgid "Display multiple product features or services. You can use Feature Grids one after another."
+msgstr "Mostra vários recursos de produtos ou serviços. Pode usar as grades de recursos uma após outra."
+
+#: src/stk-block-types.php:118 dist/translation-strings.js:468
+msgid "A small section you can use to call the attention of your visitors. Great for calling attention to your products or deals."
+msgstr "Pequena seção útil para chamar atenção de seus visitantes. Ótima para chamar atenção para seus produtos ou promoções."
+
+#: src/stk-block-types.php:983 dist/translation-strings.js:581
+msgid "Display a large thumbnail that your users can click to play a video full-screen. Great for introductory or tutorial videos."
+msgstr "Exibir miniatura grande que seus usuários podem clicar para reproduzir um vídeo em tela cheia. Ótimo para vídeos introdutórios ou tutoriais."
+
+#: dist/translation-strings.php:99
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Ghost"
+msgstr "Fantasma"
+
+#: dist/translation-strings.php:392 src/stk-block-types.php:646
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/translation-strings.js:534
+msgid "Posts"
+msgstr "Posts"
+
+#: dist/translation-strings.php:1099
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Customize Read More Link"
+msgstr "Personalizar link 'Leia mais'"
+
+#: src/stk-block-types.php:395 dist/translation-strings.js:504
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: src/stk-block-types.php:982 dist/translation-strings.js:580
+msgid "Video Popup"
+msgstr "Pop-up de vídeo"
+
+#: dist/translation-strings.php:1185
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Outline Play Button"
+msgstr "Contorno do botão de reprodução"
+
+#: dist/translation-strings.php:1184
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Play Button with Circle"
+msgstr "Botão de reprodução com círculo"
+
+#: dist/translation-strings.php:1183
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Normal Play Button"
+msgstr "Botão de reprodução normal"
+
+#: dist/translation-strings.php:1132
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Tall"
+msgstr "Alto"
+
+#: dist/translation-strings.php:1131
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Short"
+msgstr "Curto"
+
+#: src/stk-block-types.php:604 dist/translation-strings.js:527
+msgid "Notification"
+msgstr "Notificação"
+
+#: dist/translation-strings.php:359
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Notification Type"
+msgstr "Tipo de notificação"
+
+#: dist/translation-strings.php:364
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Dismissible"
+msgstr "Dispensável"
+
+#: dist/translation-strings.php:363
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Information"
+msgstr "Informação"
+
+#: dist/translation-strings.php:362
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Warning"
+msgstr "Aviso"
+
+#: dist/translation-strings.php:361
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Error"
+msgstr "Erro"
+
+#: dist/translation-strings.php:360
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Success"
+msgstr "Sucesso"
+
+#: src/stk-block-types.php:305 dist/translation-strings.js:492
+msgid "Expand / Show More"
+msgstr "Expandir / Mostrar mais"
+
+#: dist/translation-strings.php:236
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "More text"
+msgstr "Mais texto"
+
+#: dist/translation-strings.php:843 src/stk-block-types.php:216
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+#: dist/translation-strings.js:431
+msgid "Container"
+msgstr "Contêiner"
+
+#: dist/translation-strings.php:1117
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Half-screen height"
+msgstr "Altura a meia tela"
+
+#: dist/translation-strings.php:1118
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Full-screen height"
+msgstr "Altura de tela cheia"
+
+#: dist/translation-strings.php:235
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Less text"
+msgstr "Menos texto"
+
+#: dist/translation-strings.php:234
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Show less"
+msgstr "Mostrar menos"
+
+#: dist/translation-strings.php:232
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Show more"
+msgstr "Mostrar mais"
+
+#: dist/translation-strings.php:1179 src/stk-block-types.php:924
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+#: dist/translation-strings.js:572
+msgid "Testimonial"
+msgstr "Testemunho"
+
+#: dist/translation-strings.php:476
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/translation-strings.js:262
+msgid "Name"
+msgstr "Nome"
+
+#: src/stk-block-types.php:627 dist/translation-strings.js:531
+msgid "Number Box"
+msgstr "Caixa de números"
+
+#: src/stk-block-types.php:130 dist/translation-strings.js:469
+msgid "CTA"
+msgstr "CTA"
+
+#: dist/translation-strings.php:477
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:263
+msgid "Position"
+msgstr "Posição"
+
+#: dist/translation-strings.php:1177
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Position Color"
+msgstr "Posição de cor"
+
+#: dist/translation-strings.php:891 dist/stk.js:2
+msgid "Image Shape"
+msgstr "Forma da imagem"
+
+#: dist/translation-strings.php:634
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Circle"
+msgstr "Círculo"
+
+#: dist/translation-strings.php:576
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Square"
+msgstr "Quadrado"
+
+#: src/stk-block-types.php:286 dist/translation-strings.js:488
+msgid "Divider"
+msgstr "Divisor"
+
+#: dist/translation-strings.php:1133
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Restrict to Content Width"
+msgstr "Restringir à largura do conteúdo"
+
+#: src/stk-block-types.php:15 dist/translation-strings.js:454
+msgid "Accordion"
+msgstr "Acordeão"
+
+#: src/stk-block-types.php:25 dist/translation-strings.js:456
+msgid "Toggle"
+msgstr "Alternar"
+
+#: dist/translation-strings.php:303 src/stk-block-types.php:206
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:478
+msgid "Columns"
+msgstr "Colunas"
+
+#: dist/translation-strings.php:83
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Open at the start"
+msgstr "Aberto ao início"
+
+#: dist/translation-strings.php:408
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:316
+msgid "Image Size"
+msgstr "Tamanho de imagem"
+
+#: dist/translation-strings.php:1138
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Reverse Horizontally"
+msgstr "Reverter horizontalmente"
+
+#: src/stk-block-types.php:139 dist/translation-strings.js:470
+msgid "Card"
+msgstr "Cartão"
+
+#: dist/translation-strings.php:107 src/stk-block-types.php:51
+#: src/stk-block-types.php:96 dist/deprecated/editor_blocks_deprecated_v2.js:2
+#: dist/editor_blocks.js:2 dist/translation-strings.js:464
+msgid "Button"
+msgstr "Botão"
+
+#: src/stk-block-types.php:701 dist/translation-strings.js:543
+msgid "Pricing Box"
+msgstr "Caixa de preço"
+
+#: dist/translation-strings.php:1079
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Basic"
+msgstr "Básico"
+
+#: dist/translation-strings.php:150
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:429
+msgid "Border Radius"
+msgstr "Raio de borda"
+
+#: dist/translation-strings.php:1208
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+#: dist/translation-strings.js:313
+msgid "Large"
+msgstr "Grande"
+
+#: dist/translation-strings.php:1207
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+#: dist/translation-strings.js:312
+msgid "Medium"
+msgstr "Médio"
+
+#: dist/translation-strings.php:544
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:194
+msgid "Normal"
+msgstr "Normal"
+
+#: dist/translation-strings.php:1206
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Small"
+msgstr "Pequeno"
+
+#: dist/translation-strings.php:195
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Size"
+msgstr "Tamanho"
+
+#: dist/translation-strings.php:459
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Text Color"
+msgstr "Cor de texto"
+
+#: dist/translation-strings.php:829
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Button Color"
+msgstr "Cor de botão"
+
+#: src/stk-block-types.php:35 dist/translation-strings.js:458
+msgid "Blockquote"
+msgstr "Citação"
+
+#: src/stk-block-types.php:568 dist/translation-strings.js:520
+msgid "Image Box"
+msgstr "Caixa de imagem"
+
+#: dist/translation-strings.php:1084
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Title Color"
+msgstr "Cor de título"
+
+#: dist/translation-strings.php:881
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Overlay Color"
+msgstr "Cor de sobreposição"
+
+#: dist/translation-strings.php:229
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Width"
+msgstr "Largura"
+
+#: dist/translation-strings.php:250 src/stk-block-types.php:373
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:238
+msgid "Title"
+msgstr "Título"
+
+#: dist/translation-strings.php:258
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Height"
+msgstr "Altura"
+
+#: src/stk-block-types.php:503 dist/translation-strings.js:514
+msgid "Icon List"
+msgstr "Lista de ícones"
+
+#: dist/translation-strings.php:365
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2
+msgid "Icon Size"
+msgstr "Tamanho de ícone"
+
+#: dist/translation-strings.php:366
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:151
+msgid "Icon Color"
+msgstr "Cor de ícone"
+
+#: dist/translation-strings.php:147 src/stk-block-types.php:427
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+#: dist/stk.js:2 dist/translation-strings.js:405
+msgid "Icon"
+msgstr "Ícone"
+
+#: dist/translation-strings.php:1259
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Star"
+msgstr "Estrela"
+
+#: dist/translation-strings.php:1258
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Cross"
+msgstr "Cruz"
+
+#: dist/translation-strings.php:1085
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Arrow"
+msgstr "Seta"
+
+#: dist/translation-strings.php:98
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Plus"
+msgstr "Mais"
+
+#: dist/translation-strings.php:922
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: src/stk-block-types.php:656 dist/translation-strings.js:536
+msgid "Blog Posts"
+msgstr "Posts de blog"
+
+#: dist/translation-strings.php:393
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "No posts found."
+msgstr "Nenhum post encontrado."
+
+#: dist/translation-strings.php:1092
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Posts Settings"
+msgstr "Configurações de posts"
+
+#: dist/translation-strings.php:1257
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Check"
+msgstr "Verificar"
+
+#: dist/translation-strings.php:1024
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Fixed Background"
+msgstr "Fundo fixo"
+
+#: dist/translation-strings.php:1148
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "List Gap"
+msgstr "Espaço da lista"
+
+#: dist/translation-strings.php:438 src/stk-block-types.php:782
+#: dist/editor_blocks.js:2 dist/translation-strings.js:554
+msgid "Spacer"
+msgstr "Espaçador"
+
+#: dist/translation-strings.php:1112
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Subtitle Color"
+msgstr "Cor do subtítulo"
+
+#: dist/translation-strings.php:1122
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Text Colors"
+msgstr "Cores do texto"
+
+#: dist/translation-strings.php:716 src/welcome/index.php:274
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: src/stk-block-types.php:325 dist/translation-strings.js:498
+msgid "Feature"
+msgstr "Recurso"
+
+#: src/stk-block-types.php:905 dist/translation-strings.js:570
+msgid "Team Member"
+msgstr "Membro de equipe"
+
+#: src/stk-block-types.php:117 dist/translation-strings.js:467
+msgid "Call to Action"
+msgstr "Chamada para ação (CTA)"
+
+#: dist/translation-strings.php:1164
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Number Background Color"
+msgstr "Cor de fundo do número"
+
+#: dist/translation-strings.php:1123
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Heading Color"
+msgstr "Cor do título"
+
+#: dist/translation-strings.php:902 dist/stk.js:2
+msgid "Icon Shape"
+msgstr "Forma de ícone"
+
+#: dist/translation-strings.php:231
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "Some short text that can be expanded to show more details."
+msgstr "Algum texto curto que pode ser expandido para mostrar mais detalhes."
+
+#: src/stk-block-types.php:344 dist/translation-strings.js:496
+msgid "Feature Grid"
+msgstr "Grade de recursos"
+
+#: src/stk-block-types.php:229 dist/translation-strings.js:480
+msgid "Count Up"
+msgstr "Contar"
+
+#: dist/translation-strings.php:1129
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Number Color"
+msgstr "Cor do número"
+
+#: dist/translation-strings.php:1105
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Description Color"
+msgstr "Cor da descrição"
+
+#: dist/translation-strings.php:1176
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Name Color"
+msgstr "Cor do nome"
+
+#: dist/translation-strings.php:1020
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Background Media Tint Strength"
+msgstr "Força da tonalidade da cor de fundo"
+
+#: src/deprecated/v2/block/blog-posts/index.php:466
+msgid "Number of comments"
+msgstr "Número de comentários"
+
+#: src/block/posts/index.php:107 src/block/posts/index.php:467
+#: src/deprecated/v2/block/blog-posts/index.php:289
+#: src/deprecated/v2/block/blog-posts/index.php:543
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d comentário"
+msgstr[1] "%d comentários"
+
+#: src/block/posts/index.php:431
+#: src/deprecated/v2/block/blog-posts/index.php:265
+#: src/deprecated/v2/block/blog-posts/index.php:554
+msgid ", "
+msgstr ", "
+
+#: dist/translation-strings.php:413 src/block/posts/index.php:59
+#: src/deprecated/v2/block/blog-posts/index.php:251
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:2
+msgid "(Untitled)"
+msgstr "(Sem título)"
+
+#: dist/translation-strings.php:1101
+#: src/deprecated/v2/block/blog-posts/index.php:316
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Continue reading"
+msgstr "Continue lendo"
+
+#: src/welcome/notification.php:77
+msgid "%s notification"
+msgid_plural "%s notifications"
+msgstr[0] "%s notificação"
+msgstr[1] "%s notificações"
+
+#: src/welcome/notification.php:138
+msgid "Don't show me this anymore"
+msgstr "Não mostrar mais isto"
+
+#: src/deprecated/v2/block/blog-posts/index.php:454
+msgid "Author information"
+msgstr "Informação de autor"
+
+#: src/deprecated/v2/block/blog-posts/index.php:418
+msgid "Different sized featured images"
+msgstr "Tamanhos diferentes de imagens destacadas"
+
+#: src/deprecated/v2/block/blog-posts/index.php:430
+msgid "Post excerpt for Stackable"
+msgstr "Resumo de post para Stackable"
+
+#: src/deprecated/v2/block/blog-posts/index.php:442
+msgid "Category list links"
+msgstr "Links da lista de categorias"
+
+#. Plugin Name of the plugin
+#: plugin.php
+msgid "Stackable - Gutenberg Blocks"
+msgstr "Stackable - Blocos Gutenberg"
+
+#. Plugin URI of the plugin
+#: plugin.php
+msgid "https://wpstackable.com"
+msgstr "https://wpstackable.com"
+
+#: dist/translation-strings.php:9 src/welcome/index.php:29
+#: src/welcome/index.php:30 src/welcome/index.php:161
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/stk.js:2
+msgid "Stackable"
+msgstr "Stackable"
+
+#. Author URI of the plugin
+#: plugin.php
+msgid "http://gambit.ph"
+msgstr "http://gambit.ph"
+
+#. Author of the plugin
+#: plugin.php
+msgid "Gambit Technologies, Inc"
+msgstr "Gambit Technologies, Inc"
